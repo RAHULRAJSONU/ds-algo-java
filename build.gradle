@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'com.silvertech.edu'
+group 'edu.silvertech.training'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
